@@ -7,6 +7,7 @@ This credit risk project contains 2 different data sets, so the code contains tw
 
 # Objective
 **1.** To create clusters to understand the type of customers the bank has.
+
 **2.** Determine whether or not a customer is eligible for credit (classification).
 
 # Instructions
